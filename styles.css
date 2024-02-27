@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+    margin: 0px;
+    font-size: 34px;
+}
+
+h1 {
+    font-size: 90px;
+    font-family: Gill Sans;
+    border: 447px;
+    color: rgb(67, 179, 11);
+}
+
+p {
+    color: rgb(244, 58, 58);
+    font-family: Cambria;
+}
