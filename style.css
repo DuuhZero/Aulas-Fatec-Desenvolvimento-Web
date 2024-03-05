@@ -1,12 +1,15 @@
 body{
     margin: 10px auto;
     max-width: 80%;
+    background-image:url(./imagens/fundo.png);
+
 }
 
+
 .cabecalho{
-    border: 2px solid rgb(73, 54, 176);
     margin: 10px auto;
-    max-width: 90%;
+    margin-right:  60px;
+    margin-left: 50px;
 }
 
 .cabecalho .link{
@@ -18,4 +21,14 @@ body{
     margin: 3px;
 }
 
+.corpo{
+    padding-top:4px;
+    margin-left: 50px;
+}
+
+.texto .titulo{
+    font-family: Verdana;
+    font-size: 26px;
+    text-align: center;
+}
 
