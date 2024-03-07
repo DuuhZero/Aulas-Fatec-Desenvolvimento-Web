@@ -1,0 +1,77 @@
+body{
+    margin: 10px auto;
+    max-width: 80%;
+    background-image: url(./imagens/fundo2.png);
+}
+
+.cabecalho{
+    margin: 10px auto;
+    margin-right: 110px;
+    margin-left: 143px;
+}
+
+.cabecalho .link{
+    font-family: Helvetica;
+    margin-left: 70%;
+    margin-top: -16px;
+    margin-bottom: 26px;
+}
+
+.cabecalho .link a{
+    margin: 4px;
+}
+
+.cabecalho .logo{
+    margin-top: 20px;
+    margin-bottom: -20px;
+    margin-left: -1px;
+}
+
+.corpo .texto-contato{
+    margin-left: 141px;
+    margin-top: 60px;
+    font-family: Verdana;
+    font-size: 16px;
+    margin-right: 145px;
+    margin-bottom: 15px;
+}
+
+.corpo .paragrafo{
+    margin-left: 141px;
+    margin-right: 145px;
+    margin-bottom: 15px;
+}
+
+hr{
+    margin-right: 150px;
+    margin-left: 141px;
+}
+
+.formulario{
+    font-family: Verdana;
+    margin-left: 141px;
+    font-size: 12px;
+    margin-right: 145px;
+    margin-top: 15px;
+}
+
+.formulario .email {
+    margin-bottom: -1px;
+}
+
+.formulario .assunto{
+    margin-bottom: -1px;
+    margin-top: 1px;
+}
+
+.formulario .descricao{
+    margin-bottom: -1px;
+    margin-top: 1px;
+}
+
+.rodape{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 8px;
+    font-family: Verdana;
+}

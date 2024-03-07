@@ -1,0 +1,85 @@
+body{
+    margin:10px auto;
+    max-width: 80%;
+    background-image: url(./imagens/fundo2.png);
+}
+
+.cabecalho{
+    margin: 10px auto;
+    margin-right: 110px;
+    margin-left: 142px;
+}
+
+.cabecalho .link{
+    font-family: Helvetica;
+    margin-left: 70%;
+    margin-top: -16px;
+    margin-bottom: 26px;
+}
+
+.cabecalho .link a{
+    margin:4px;
+}
+
+.cabecalho .logo{
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+.corpo .quem-somos {
+    margin-left: 141px;
+    font-family: Verdana;
+    margin-right: 145px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.corpo .paragrafo{
+    margin-left: 141px;
+    margin-right: 145px;
+}
+
+.corpo .motivos .motivos-lista{
+    margin-bottom: 30px;
+    font-family: Verdana;
+    margin-left: 141px;
+    margin-right: 145px;
+    font-size: 16px;
+}
+
+.corpo .motivos .lista{
+    margin-right: 145px;
+    margin-left: 141px;
+    margin-bottom: 15px;
+}
+
+.corpo .motivos .lista ul{
+    margin-top: -12px;
+    margin-bottom: 10px;
+}
+
+.rodape{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 8px;
+    font-family: Verdana;
+}
+
+hr{
+    margin-right: 145px;
+    margin-left: 141px;
+}
+
+.objetivos .obj{
+    margin-top: 15px;
+    font-family: Verdana;
+    font-size: 16px;
+    margin-left: 141px;
+    margin-right: 145px;
+}
+
+.objetivos .texto-obj{
+    margin-right: 145px;
+    margin-left: 141px;
+}

@@ -1,0 +1,54 @@
+body{   
+    margin:10px auto;
+    max-width: 80%;
+    background-image:url(./imagens/fundo.png);
+}
+
+
+.cabecalho{
+    margin:10px auto;
+    margin-right:  110px;
+    margin-left: 143px;
+}
+
+
+.cabecalho .link{
+    font-family:Helvetica;
+    margin-left: 71%;
+    margin-top: -16px;
+    margin-bottom: 26px;
+}
+
+.cabecalho .link a{
+    margin: 4px;
+}
+
+.cabecalho .logo{
+    margin-top: 20px;
+    margin-bottom: -20px;
+    margin-left: 1px;
+}
+
+.corpo{
+    padding-top:5px;
+    margin-left:12%;
+}
+
+.texto .titulo{
+    font-family: Verdana;
+    font-size: 16px;
+    margin-left: 143px;
+}
+
+
+.rodape{
+    margin-top: 50px;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 8px;
+}
+
+.texto .paragrafo{
+    margin-left: 143px;
+    margin-right: 144px;
+}
