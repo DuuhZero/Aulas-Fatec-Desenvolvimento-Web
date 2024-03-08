@@ -1,19 +1,21 @@
-body{
-    margin: 10px auto;
-    max-width: 80%;
-    background-image: url(./imagens/fundo2.png);
+body{   
+    margin:10px auto;
+    max-width: auto;
+    background-image:url(./imagens/fundo2.png);
+    height: 97vh;
 }
+
 
 .cabecalho{
     margin:10px auto;
     margin-right:  9.3%;
-    margin-left: 11.9%;
+    margin-left: 13.9%;
 }
 
 
 .cabecalho .link{
     font-family:Helvetica;
-    margin-left: 70%;
+    margin-left: 68.6%;
     margin-top: -1.7%;
     margin-bottom: 2.7%;
 }
@@ -25,34 +27,35 @@ body{
 .cabecalho .logo{
     margin-top: 2.2%;
     margin-bottom: -2.2%;
-    margin-left: -0.2%;
+    margin-left: 0.1%;
 }
 
+
 .corpo .texto-contato{
-    margin-left: 11.8%;
+    margin-left: 14%;
     margin-top: 5.02%;
     font-family: Verdana;
     font-size: 16px;
-    margin-right: 13.2%;
+    margin-right: 15%;
     margin-bottom: 1.15%;
 }
 
 .corpo .paragrafo{
-    margin-left: 11.8%;
-    margin-right: 13.2%;
+    margin-left: 14%;
+    margin-right: 15%;
     margin-bottom: 1.2%;
 }
 
 hr{
-    margin-right: 13.2%;
-    margin-left: 11.8%;
+    margin-right: 15%;
+    margin-left: 14%;
 }
 
 .formulario{
     font-family: Verdana;
-    margin-left: 11.8%;
+    margin-left: 14%;
     font-size: 12px;
-    margin-right: 13.2%;
+    margin-right: 15%;
     margin-top: 1.29%;
 }
 
