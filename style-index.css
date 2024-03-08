@@ -7,16 +7,16 @@ body{
 
 .cabecalho{
     margin:10px auto;
-    margin-right:  110px;
-    margin-left: 143px;
+    margin-right:  9.3%;
+    margin-left: 11.9%;
 }
 
 
 .cabecalho .link{
     font-family:Helvetica;
     margin-left: 71%;
-    margin-top: -16px;
-    margin-bottom: 26px;
+    margin-top: -1.7%;
+    margin-bottom: 2.7%;
 }
 
 .cabecalho .link a{
@@ -24,31 +24,31 @@ body{
 }
 
 .cabecalho .logo{
-    margin-top: 20px;
-    margin-bottom: -20px;
-    margin-left: 1px;
+    margin-top: 2.2%;
+    margin-bottom: -2.2%;
+    margin-left: 0.1%;
 }
 
 .corpo{
-    padding-top:5px;
+    padding-top:0.5%;
     margin-left:12%;
 }
 
 .texto .titulo{
     font-family: Verdana;
     font-size: 16px;
-    margin-left: 143px;
+    margin-left: 12%;
 }
 
 
 .rodape{
-    margin-top: 50px;
+    margin-top: 4.29%;
     font-family: Verdana;
     text-align: center;
     font-size: 8px;
 }
 
 .texto .paragrafo{
-    margin-left: 143px;
-    margin-right: 144px;
+    margin-left: 12%;
+    margin-right: 12.1%;
 }

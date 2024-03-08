@@ -5,16 +5,17 @@ body{
 }
 
 .cabecalho{
-    margin: 10px auto;
-    margin-right: 110px;
-    margin-left: 143px;
+    margin:10px auto;
+    margin-right:  9.3%;
+    margin-left: 11.9%;
 }
 
+
 .cabecalho .link{
-    font-family: Helvetica;
+    font-family:Helvetica;
     margin-left: 70%;
-    margin-top: -16px;
-    margin-bottom: 26px;
+    margin-top: -1.7%;
+    margin-bottom: 2.7%;
 }
 
 .cabecalho .link a{
@@ -22,55 +23,55 @@ body{
 }
 
 .cabecalho .logo{
-    margin-top: 20px;
-    margin-bottom: -20px;
-    margin-left: -1px;
+    margin-top: 2.2%;
+    margin-bottom: -2.2%;
+    margin-left: -0.2%;
 }
 
 .corpo .texto-contato{
-    margin-left: 141px;
-    margin-top: 60px;
+    margin-left: 11.8%;
+    margin-top: 5.02%;
     font-family: Verdana;
     font-size: 16px;
-    margin-right: 145px;
-    margin-bottom: 15px;
+    margin-right: 13.2%;
+    margin-bottom: 1.15%;
 }
 
 .corpo .paragrafo{
-    margin-left: 141px;
-    margin-right: 145px;
-    margin-bottom: 15px;
+    margin-left: 11.8%;
+    margin-right: 13.2%;
+    margin-bottom: 1.2%;
 }
 
 hr{
-    margin-right: 150px;
-    margin-left: 141px;
+    margin-right: 13.2%;
+    margin-left: 11.8%;
 }
 
 .formulario{
     font-family: Verdana;
-    margin-left: 141px;
+    margin-left: 11.8%;
     font-size: 12px;
-    margin-right: 145px;
-    margin-top: 15px;
+    margin-right: 13.2%;
+    margin-top: 1.29%;
 }
 
 .formulario .email {
-    margin-bottom: -1px;
+    margin-bottom: -0.1%;
 }
 
 .formulario .assunto{
-    margin-bottom: -1px;
-    margin-top: 1px;
+    margin-bottom: -0.1%;
+    margin-top: 0.1%;
 }
 
 .formulario .descricao{
-    margin-bottom: -1px;
-    margin-top: 1px;
+    margin-bottom: -0.1%;
+    margin-top: 0.1%;
 }
 
 .rodape{
-    margin-top: 50px;
+    margin-top: 4.16%;
     text-align: center;
     font-size: 8px;
     font-family: Verdana;
